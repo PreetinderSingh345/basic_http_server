@@ -1,0 +1,16 @@
+{
+  "name": "basic_http_server",
+  "version": "1.0.0",
+  "description": "Basic Http Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic",
+    "http",
+    "server"
+  ],
+  "author": "Preetinder Singh",
+  "license": "ISC"
+}
