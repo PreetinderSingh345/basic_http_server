@@ -1,1 +1,13 @@
-To run this basic http server, clone this repository, run the command - node index.js inside the terminal and then try accessing the home and the profile pages at localhost:8000/127.0.0.1:8000 in your browser
+# Basic Http server
+ 
+  :electric_plug:
+
+- Try accessing the home and profile pages at localhost:8000/127.0.0.1:8000 in your browser
+
+## Run the server
+
+Write the below command in terminal to run the server
+ 
+ ```bash
+  npm index.js
+ ```
